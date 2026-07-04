@@ -79,7 +79,3 @@ python naukri_job_scraper_selenium.py
 - Compare across multiple roles (Data Analyst vs Business Analyst vs Data Scientist)
 - Track job postings over time to identify hiring trends
 - Deploy an interactive dashboard (Streamlit) for live filtering by city, skill, and experience level
-
-## Author
-
-[Your Name] — [LinkedIn URL] — [GitHub URL]
